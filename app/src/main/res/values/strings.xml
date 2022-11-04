@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_history">Historial</string>
+    <string name="edit_message">Correo corporativo</string>
+    <string name="button_connect">Conectar</string>
+    <string name="title_dash">Dashboard</string>
+    <string name="volver">Volver</string>
+    <string name="NoFui">Yo no fui</string>
+    <string name="wait_message">Esperando confirmacion, revise su correo</string>
+
+</resources>
