@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment_configuration">
+    tools:context="co.pralogy.mfa.fragment_configuration">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
